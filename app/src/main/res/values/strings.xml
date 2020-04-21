@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">vzaimoisklcheckbox</string>
+    <string name="txtMoneyInput">inpMoney</string>
+    <string name="txtInputInfo">inpinto</string>
+    <string name="txtOkBtn">OKbtn</string>
+    <string name="txtChkCard">chkcard</string>
+    <string name="txtChkPhone">chkphone</string>
+    <string name="txtChkCash">chkcash</string>
+    <string name="tstInfoError">Error</string>
+</resources>
